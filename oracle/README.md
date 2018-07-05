@@ -6,7 +6,7 @@
 docker pull sath89/oracle-12c
 ```
 
-### crear contenedor
+### Crear contenedor
 docker run -d -p 8080:8080 -p 1521:1521 sath89/oracle-12c
 ```
 
