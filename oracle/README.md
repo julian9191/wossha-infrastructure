@@ -10,7 +10,7 @@ docker pull sath89/oracle-12c
 docker run -d -p 8080:8080 -p 1521:1521 sath89/oracle-12c
 ```
 
-```
+
 hostname: localhost
 port: 1521
 sid: xe
