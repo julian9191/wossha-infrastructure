@@ -5,3 +5,5 @@ ejecutar apache-activemq-5.13.1-bin\apache-activemq-5.13.1\bin\win64\activemq.ba
 [abrir: ](http://local.k12.com:8161/admin/)
 username: admin
 password: admin
+
+en este proyecto se usa la herramienta virtual topics de ActiveMQ explicada [aqui: ](https://tuhrig.de/virtual-topics-in-activemq/)
